@@ -1,2 +1,2 @@
-# Multi Language lexical-Analyzer
+# Multi Language Lexical-Analyzer
 Lexical Analyzer using Python
